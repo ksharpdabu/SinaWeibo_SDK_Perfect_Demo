@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scheme_page.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_scheme_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_api_invite.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_open_api_invite.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_logout.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_login_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share_main.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_share_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_auth_code.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_auth_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\share_item_template.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\share_item_template.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_social.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_api_logout.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_open_api_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_auth.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_api_base_layout.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_open_api_base_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_api.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_open_api.xml"
+    }
+]

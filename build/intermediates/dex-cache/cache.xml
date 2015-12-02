@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\exploded-aar\demo-src\WeiboSDK\unspecified\jars\libs\weiboSDKCore_3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3d7b05ac5b81b7213a94f1368d0ab327b9780eb9">
+        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\weiboSDKCore_3.1.2_805e3e4279c02df4c71b75181b70641ce996f2ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\android-support-v4_c407f578182bc2f71dffe1f83d13c6f5b26c7011.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\exploded-aar\demo-src\WeiboSDK\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="75307aeebdd9d84ae80d42eae4ee3e57c4416282">
+        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\android-support-v4_821b8c2f06c8b8e742f32971e6d65eeec794efbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\exploded-aar\demo-src\WeiboSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="545f722e44866a33692a0fbcd7dd5ee4f90b916b">
+        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\demo-src-WeiboSDK-unspecified_754dde6249b74664d158aa9fe9966c12984eca7e.jar" />
+    </item>
+
+</items>
