@@ -4,14 +4,6 @@
         "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\drawable\\background.9.png"
     },
     {
-        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_account_text.xml",
-        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\exploded-aar\\demo-src\\WeiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_account_text.xml"
-    },
-    {
-        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_button_grey.xml",
-        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\exploded-aar\\demo-src\\WeiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_button_grey.xml"
-    },
-    {
         "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_video_thumb.png",
         "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\drawable\\ic_share_video_thumb.png"
     },
@@ -22,10 +14,6 @@
     {
         "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.png",
         "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\drawable\\ic_logo.png"
-    },
-    {
-        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml",
-        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\exploded-aar\\demo-src\\WeiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml"
     },
     {
         "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_blue_selector.xml",
@@ -44,19 +32,11 @@
         "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\drawable\\ic_login_button_blue_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_frame_logo.xml",
-        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\exploded-aar\\demo-src\\WeiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_frame_logo.xml"
-    },
-    {
-        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_button_blue.xml",
-        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\exploded-aar\\demo-src\\WeiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_button_blue.xml"
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login_button_blue_pressed.9.png",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\drawable\\ic_login_button_blue_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_voice_thumb.png",
         "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\drawable\\ic_share_voice_thumb.png"
-    },
-    {
-        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login_button_blue_pressed.9.png",
-        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\drawable\\ic_login_button_blue_pressed.9.png"
     }
 ]
