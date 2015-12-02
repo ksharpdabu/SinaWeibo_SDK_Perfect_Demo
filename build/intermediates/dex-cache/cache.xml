@@ -2,11 +2,39 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\libs\weiboSDKCore_3.1.2.jar"
+        jar="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="1c0bfcddc15de1e8a90ff166da0b9abe011346af">
-        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\weiboSDKCore_3.1.2_930cf97057a7fb5e412714564bdefcdb7f7c4be8.jar" />
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_28dead41c7aba47836f6ba7c3154d51474e5f975.jar" />
+    </item>
+    <item
+        jar="C:\android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_f2ad7d16a86917c201464880a39192bff54ac5d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\exploded-aar\demo-src\WeiboSDK\unspecified\jars\libs\weiboSDKCore_3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa604b33cba537c32be408f0b97da2802384b200">
+        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\weiboSDKCore_3.1.2_805e3e4279c02df4c71b75181b70641ce996f2ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\exploded-aar\demo-src\WeiboSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4bab871ce99cbb4b823c68dc8ce511ceb9673ada">
+        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\demo-src-WeiboSDK-unspecified_754dde6249b74664d158aa9fe9966c12984eca7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\AlexY\Desktop\weibo_android_sdk-master\demo-src\WeiboSDKDemo\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_d926b98029821e7a2b73ca93c35ff0fa74db1821.jar" />
     </item>
 
 </items>

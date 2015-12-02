@@ -18,11 +18,13 @@ package com.sina.weibo.sdk.openapi;
 
 import android.content.Context;
 import android.text.TextUtils;
+
 import com.sina.weibo.sdk.auth.Oauth2AccessToken;
 import com.sina.weibo.sdk.net.AsyncWeiboRunner;
 import com.sina.weibo.sdk.net.RequestListener;
 import com.sina.weibo.sdk.net.WeiboParameters;
 import com.sina.weibo.sdk.utils.LogUtil;
+
 
 /**
  * 微博 OpenAPI 的基类，每个接口类都继承了此抽象类。
@@ -50,7 +52,7 @@ public abstract class AbsOpenAPI {
     /**
      * 构造函数，使用各个 API 接口提供的服务前必须先获取 Token。
      * 
-     * @param accesssToken 访问令牌
+     * @param accessToken 访问令牌
      */
     public AbsOpenAPI(Context context, String appKey, Oauth2AccessToken accessToken) {
         mContext = context;

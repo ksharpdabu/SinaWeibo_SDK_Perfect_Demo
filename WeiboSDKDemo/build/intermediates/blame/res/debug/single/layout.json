@@ -36,12 +36,12 @@
         "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_pay.xml"
     },
     {
-        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share.xml",
-        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_share.xml"
-    },
-    {
         "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_social.xml",
         "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share.xml",
+        "source": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\res\\layout\\activity_share.xml"
     },
     {
         "merged": "C:\\Users\\AlexY\\Desktop\\weibo_android_sdk-master\\demo-src\\WeiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_api_logout.xml",
