@@ -155,9 +155,11 @@ public class WBAuthActivity extends Activity {
         
         // SSO 授权回调
         // 重要：发起 SSO 登陆的 Activity 必须重写 onActivityResults
+        // ++++++++++++++++++
+        //如果是sso授权登陆，必须先执行下面的回调，然后才会执行监听器里的 回调
         if (mSsoHandler != null) {
             mSsoHandler.authorizeCallBack(requestCode, resultCode, data);
-        }
+    }
         
     }
 
